@@ -1,3 +1,3 @@
 # SwiftHttpServer
 
-A description of this package.
+Swift HttpServer based on [Perfect](https://perfect.org/)
